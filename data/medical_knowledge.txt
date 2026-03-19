@@ -1,0 +1,20 @@
+### Headache
+Symptoms: pain in head, pressure, sensitivity to light
+Causes: stress, dehydration, migraine
+Remedies: rest, hydration, cold compress
+Medicines: paracetamol, ibuprofen
+Doctor: if persistent >2 days
+
+### Fever
+Symptoms: high temperature, chills, sweating
+Causes: infection, flu
+Remedies: hydration, rest
+Medicines: paracetamol
+Doctor: if >102°F or 3 days
+
+### Cough
+Symptoms: throat irritation, dry/wet cough
+Causes: cold, infection
+Remedies: honey, warm fluids
+Medicines: cough syrup
+Doctor: if persistent >1 week

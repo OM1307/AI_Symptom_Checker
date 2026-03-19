@@ -1,0 +1,219 @@
+{
+  "conditions": [
+    {
+      "name": "Headache",
+      "possible_causes": [
+        "Tension headache due to stress or poor posture",
+        "Migraine",
+        "Dehydration",
+        "Lack of sleep"
+      ],
+      "home_remedies": [
+        "Drink adequate water",
+        "Rest in a quiet and dark room",
+        "Apply cold or warm compress",
+        "Practice relaxation techniques like deep breathing"
+      ],
+      "otc_medicines": [
+        "Paracetamol",
+        "Ibuprofen"
+      ],
+      "when_to_see_doctor": [
+        "Severe or sudden headache",
+        "Headache with vision problems, confusion, or vomiting",
+        "Persistent for more than 2–3 days"
+      ]
+    },
+    {
+      "name": "Fever",
+      "possible_causes": [
+        "Viral infections such as flu or cold",
+        "Bacterial infections",
+        "Inflammatory conditions"
+      ],
+      "home_remedies": [
+        "Stay hydrated with water or ORS",
+        "Take adequate rest",
+        "Wear light clothing"
+      ],
+      "otc_medicines": [
+        "Paracetamol",
+        "Ibuprofen"
+      ],
+      "when_to_see_doctor": [
+        "Temperature above 39°C (102°F)",
+        "Fever lasting more than 3 days",
+        "Associated with rash or breathing difficulty"
+      ]
+    },
+    {
+      "name": "Common Cold",
+      "possible_causes": [
+        "Viral infection (rhinovirus)"
+      ],
+      "home_remedies": [
+        "Drink warm fluids like soup or tea",
+        "Steam inhalation",
+        "Take rest"
+      ],
+      "otc_medicines": [
+        "Cetirizine",
+        "Paracetamol"
+      ],
+      "when_to_see_doctor": [
+        "Symptoms last more than 10 days",
+        "High fever",
+        "Difficulty breathing"
+      ]
+    },
+    {
+      "name": "Cough",
+      "possible_causes": [
+        "Viral infection",
+        "Allergy",
+        "Throat irritation"
+      ],
+      "home_remedies": [
+        "Honey with warm water",
+        "Steam inhalation",
+        "Stay hydrated"
+      ],
+      "otc_medicines": [
+        "Dextromethorphan",
+        "Guaifenesin"
+      ],
+      "when_to_see_doctor": [
+        "Cough lasting more than 2 weeks",
+        "Blood in sputum",
+        "Chest pain"
+      ]
+    },
+    {
+      "name": "Nausea and Vomiting",
+      "possible_causes": [
+        "Food poisoning",
+        "Viral infection",
+        "Motion sickness"
+      ],
+      "home_remedies": [
+        "Eat small frequent meals",
+        "Drink ginger tea",
+        "Stay hydrated"
+      ],
+      "otc_medicines": [
+        "Dimenhydrinate"
+      ],
+      "when_to_see_doctor": [
+        "Persistent vomiting for more than 24 hours",
+        "Signs of dehydration",
+        "Blood in vomit"
+      ]
+    },
+    {
+      "name": "Stomach Pain",
+      "possible_causes": [
+        "Indigestion",
+        "Gas",
+        "Infection"
+      ],
+      "home_remedies": [
+        "Drink warm water",
+        "Avoid spicy food",
+        "Eat light meals"
+      ],
+      "otc_medicines": [
+        "Simethicone",
+        "Antacids"
+      ],
+      "when_to_see_doctor": [
+        "Severe pain",
+        "Pain with fever or vomiting",
+        "Persistent for more than 2 days"
+      ]
+    },
+    {
+      "name": "Diarrhea",
+      "possible_causes": [
+        "Viral or bacterial infection",
+        "Food contamination"
+      ],
+      "home_remedies": [
+        "Drink ORS solution",
+        "Follow BRAT diet (banana, rice, toast)",
+        "Stay hydrated"
+      ],
+      "otc_medicines": [
+        "Loperamide",
+        "ORS"
+      ],
+      "when_to_see_doctor": [
+        "Blood in stool",
+        "Severe dehydration",
+        "Lasting more than 3 days"
+      ]
+    },
+    {
+      "name": "Anxiety and Stress",
+      "possible_causes": [
+        "Work pressure",
+        "Emotional stress",
+        "Lack of sleep"
+      ],
+      "home_remedies": [
+        "Meditation",
+        "Regular exercise",
+        "Proper sleep routine"
+      ],
+      "otc_medicines": [
+        "No standard OTC medication recommended"
+      ],
+      "when_to_see_doctor": [
+        "Interferes with daily life",
+        "Frequent panic attacks",
+        "Persistent symptoms"
+      ]
+    },
+    {
+      "name": "Insomnia",
+      "possible_causes": [
+        "Stress",
+        "Irregular sleep schedule",
+        "Excess screen time"
+      ],
+      "home_remedies": [
+        "Maintain fixed sleep schedule",
+        "Avoid screens before bed",
+        "Practice relaxation techniques"
+      ],
+      "otc_medicines": [
+        "Melatonin"
+      ],
+      "when_to_see_doctor": [
+        "Sleep issues lasting more than 2 weeks",
+        "Daytime fatigue affecting daily life"
+      ]
+    },
+    {
+      "name": "Sore Throat",
+      "possible_causes": [
+        "Viral infection",
+        "Bacterial infection",
+        "Irritation"
+      ],
+      "home_remedies": [
+        "Warm salt water gargle",
+        "Drink warm fluids",
+        "Use honey"
+      ],
+      "otc_medicines": [
+        "Throat lozenges",
+        "Paracetamol"
+      ],
+      "when_to_see_doctor": [
+        "Severe throat pain",
+        "Difficulty swallowing",
+        "Fever with throat pain"
+      ]
+    }
+  ]
+}
